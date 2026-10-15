@@ -1,4 +1,4 @@
-dde-clipboard (1:6.1.37) unstable; urgency=medium
+dde-clipboard (1:6.1.37.1) unstable; urgency=medium
 
   * i18n: Translate dde-clipboard.ts in mn (#287)
   * fix: use IconButton for tips bar close button to show circular
